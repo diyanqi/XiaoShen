@@ -5,6 +5,7 @@
 
 ## 安装教程
 1.Windows环境安装
+- 教程视频： https://www.bilibili.com/video/bv11f4y1X7E9
 - 先下载，选择“Download ZIP”。
 - 耐心等待下载完成。
 - 解压文件夹，并打开目录下的5个.py文件（推荐使用VSCode或Sublime）。
